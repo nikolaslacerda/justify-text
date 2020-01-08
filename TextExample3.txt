@@ -1,0 +1,15 @@
+﻿Haskell é a linguagem funcional 
+sobre a qual mais se realizam pesquisas atualmente. 
+Muito utilizada no meio acadêmico. É uma linguagem nova, elaborada em 1987, derivada de outras 
+linguagens
+ funcionais
+ como por
+ exemplo Haskell
+Miranda e ML. 
+Ela se baseia em um estilo de programação em que se enfatiza mais o 
+que deve ser feito (what) em detrimento
+ de como deve ser feito (how). 
+É uma linguagem que possui 
+           foco no alcance de soluções para 
+problemas matemáticos, clareza, e de fácil manutenção nos códigos, 
+e possui uma variedade de aplicações e apesar de simples é muito poderosa.

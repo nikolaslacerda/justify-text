@@ -1,0 +1,12 @@
+﻿Haskell é uma 
+linguagem de programação 
+puramente funcional, de propósito geral,
+ nomeada em homenagem ao 
+       lógico Haskell Curry.
+ Como uma linguagem 
+funcional, a        estrutura de controle
+ primária é a função; a linguagem é baseada
+ nas observações de Haskell Curry
+ e seus descendentes intelectuais.
+
+
